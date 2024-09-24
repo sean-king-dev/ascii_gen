@@ -18,7 +18,7 @@
 
 > pip install -r requirements.txt
 
-> Run programme (opens in browser on port): 
+> Run programme (opens in browser on port 5000): 
 
 > python app.py
 
